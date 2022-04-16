@@ -15,7 +15,7 @@ Capitalize Every Word In Your Message.
 ## NekosLife - _⚠️ NSFW_
 Get images/gifs from nekos.life API.
 - [Help](https://github.com/scrazzz/AliucordPlugins/tree/main/NekosLife/README.md)
-- [Download](https://github.com/scrazzz/AliucordPlugins/blob/builds/NekosLife.zip?raw=true)  
+- [Download](https://github.com/SoulHunter287/AliucordPlugins/blob/builds/NekosLife.zip?raw=true)  
 
 ## Ip
 Get details about IPv4/IPv6 address or a domain name.
