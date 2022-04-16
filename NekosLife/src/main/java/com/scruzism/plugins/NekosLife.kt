@@ -84,8 +84,7 @@ class NekosLife : Plugin() {
                 createCommandChoice("pussy", "pussy"),
                 createCommandChoice("pussy jpg", "pussy_jpg"),
                 createCommandChoice("pwank", "pwankg"),
-                createCommandChoice("random hentai gif", "Random_hentai_gif"),
-                createCommandChoice("small boobs", "smallboobs"),
+                createCommandChoice("random", "Random_hentai_gif"),
                 createCommandChoice("smug", "smug"),
                 createCommandChoice("solo", "solo"),
                 createCommandChoice("solo gif", "solog"),
@@ -103,6 +102,7 @@ class NekosLife : Plugin() {
                 createCommandChoice("5", "5"),
                 createCommandChoice("8", "8"),
                 createCommandChoice("10", "10")
+                createCommandChoice("20", "20")
         )
 
         val args = listOf(
