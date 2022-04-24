@@ -40,7 +40,7 @@ private fun makeReq(chosen: String, count: Long): List<String> {
 @AliucordPlugin
 class NekosLife : Plugin() {
 
-    private val LOG = Logger("NekosLife")
+    private val LOG = Logger("Neko")
 
     override fun start(ctx: Context) {
         val choices = listOf(
@@ -101,7 +101,7 @@ class NekosLife : Plugin() {
                 createCommandChoice("2", "2"),
                 createCommandChoice("5", "5"),
                 createCommandChoice("8", "8"),
-                createCommandChoice("10", "10")
+                createCommandChoice("10", "10"),
                 createCommandChoice("20", "20")
         )
 
